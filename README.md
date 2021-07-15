@@ -5,4 +5,5 @@
 |12|[ Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./solutions/12.%20Integer%20to%20Roman.cpp)|8 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./solutions/349.%20Intersection%20of%20Two%20Arrays.cpp)|12 ms|
+|807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[C++](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)|4 ms|
 |1829|[ Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|[C++](./solutions/1829.%20Maximum%20XOR%20for%20Each%20Query.cpp)|164 ms|
