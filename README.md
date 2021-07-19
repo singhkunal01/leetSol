@@ -8,6 +8,7 @@
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./solutions/349.%20Intersection%20of%20Two%20Arrays.cpp)|12 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](./solutions/383.%20Ransom%20Note.cpp)|12 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|32 ms|
+|415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./solutions/415.%20Add%20Strings.cpp)|4 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[C++](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)|4 ms|
 |942|[ DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./solutions/942.%20DI%20String%20Match.cpp)|8 ms|
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[C++](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)|8 ms|
