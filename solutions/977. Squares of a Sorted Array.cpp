@@ -16,5 +16,9 @@ for(int i = size(nums)-1;i>=0;i--){
    else res[i]=nums[l]*nums[l++];
 }
 return res;
+        /* 
+        Approach is simple we have to just convert all the negative values into +ve and with the help of two pointers we have to check whichever the element is smaller l or r and insert them from back in the resultant array;
+        
+        */
     }
 };
