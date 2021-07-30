@@ -24,6 +24,7 @@
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[C++](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.cpp)|16 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[C++](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.cpp)|0 ms|
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[C++](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)|8 ms|
+|1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)||
 |1630|[ Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[C++](./solutions/1630.%20Arithmetic%20Subarrays.cpp)|44 ms|
 |1636|[ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[C++](./solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency.cpp)|4 ms|
 |1812|[ Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[C++](./solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.cpp)|0 ms|
