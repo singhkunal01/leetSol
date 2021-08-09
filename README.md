@@ -8,6 +8,7 @@
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|0 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|140 ms|
+|70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|8 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|0 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|20 ms|
