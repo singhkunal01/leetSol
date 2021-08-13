@@ -1,7 +1,8 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& arr) {
-      unordered_set<int> s{arr,arr+N};
+      unordered_set<int> s{arr.begin(),arr.end()};
+        int N= size(arr);
      int ans=0;
        for(int i=0;i<N;i++){
        if (s.find(arr[i] - 1) == s.end())
