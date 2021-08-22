@@ -15,9 +15,9 @@ public:
         vector<int> res;
     void inorder(TreeNode* root){
        if(root == NULL) return;
-        inorderTraversal(root->left);
+        inorder(root->left);
         res.push_back(root->val);
-        inorderTraversal(root->right);
+        inorder(root->right);
     }
     vector<int> inorderTraversal(TreeNode* root) {
         inorder(root);
