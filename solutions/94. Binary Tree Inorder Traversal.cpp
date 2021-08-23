@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+//RECURSIVE SOLUTION
 class Solution {
 public:
     // started on date - Aug 22,2021
@@ -24,3 +27,25 @@ public:
         return res;
     }
 };
+
+
+//ITERATIVE SOLUTION (FUNCTION)
+// iterative inorder traversal
+void iterativeInorder(Node *root){
+stack<Node*> st;
+Node *temp = root;
+while(true){
+  if(temp!=NULL) {
+      st.push(temp);
+      temp=temp->left;
+    }
+    else{
+      if(st.empty()==1) 
+        break;
+      temp=st.top();
+      st.pop();
+      cout<<temp->val<<" -> ";
+      temp=temp->right;
+    }
+}
+}
