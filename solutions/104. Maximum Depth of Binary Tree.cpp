@@ -33,3 +33,15 @@ public:
 return ct;
     }
 };
+
+//================================================ ANOTHER APPROACH BY RECURSION WITHOUT ANY PRE-POST-IN TRAVERSAL ====================================
+
+class Solution {
+public:
+    int maxDepth(TreeNode* root) {
+    if(root == NULL) return 0;
+    return 1+max(maxDepth(root->left),maxDepth(root->right));
+    }
+};
+
+link to the solution: [here](https://youtu.be/eD3tmO66aBA);
