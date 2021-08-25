@@ -44,4 +44,3 @@ public:
     }
 };
 
-link to the solution: [here](https://youtu.be/eD3tmO66aBA);
