@@ -27,6 +27,7 @@
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|41 ms|
 |228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](./solutions/228.%20Summary%20Ranges.cpp)|N/A|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|8 ms|
+|257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[C++](./solutions/257.%20Binary%20Tree%20Paths.cpp)|7 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|0 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|20 ms|
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./solutions/349.%20Intersection%20of%20Two%20Arrays.cpp)|12 ms|
