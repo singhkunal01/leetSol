@@ -26,6 +26,7 @@
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.cpp)|11 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|41 ms|
 |228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](./solutions/228.%20Summary%20Ranges.cpp)|N/A|
+|236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)|12 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|8 ms|
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[C++](./solutions/257.%20Binary%20Tree%20Paths.cpp)|7 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|0 ms|
