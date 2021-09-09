@@ -63,6 +63,7 @@
 |1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[C++](./solutions/1122.%20Relative%20Sort%20Array.cpp)|4 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./solutions/1137.%20N-th%20Tribonacci%20Number.cpp)|0 ms|
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[C++](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)|8 ms|
+|1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|79 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|12 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|4 ms|
 |1630|[ Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[C++](./solutions/1630.%20Arithmetic%20Subarrays.cpp)|44 ms|
