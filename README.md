@@ -67,6 +67,7 @@
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|24 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|7 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[C++](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.cpp)|16 ms|
+|1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[C++](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)|4 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[C++](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.cpp)|0 ms|
 |1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|0 ms|
 |1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[C++](./solutions/1122.%20Relative%20Sort%20Array.cpp)|4 ms|
