@@ -50,6 +50,7 @@
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|12 ms|
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.cpp)|12 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[C++](./solutions/565.%20Array%20Nesting.cpp)|N/A|
+|637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|8 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|40 ms|
 |724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](./solutions/724.%20Find%20Pivot%20Index.cpp)|20 ms|
