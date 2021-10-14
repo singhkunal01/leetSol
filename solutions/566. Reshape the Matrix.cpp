@@ -1,26 +1,3 @@
-class Solution {
-public:
-    vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
-   //first approach : Using extra space
-        
-     /*int m = mat.size(), n = mat[0].size();
-     vector<vector<int>>result(r,vector<int> (c));
-         vector<int> temp;
-     if(m * n != r * c) return mat;
-     for(int i = 0 ; i < m; i++) {
-         for(int j = 0; j < n; j++) {
-             temp.push_back(mat[i][j]);
-         }
-     }
-    int rows = 0, col = 0;
-    for(int i = 0; i < size(temp); i++)
-    {
-        if(col == c){
-            rows++;
-            col = 0;
-        }
-        result[rows][col] = temp[i];
-        col++;
     }
      return result;*/
         
@@ -41,6 +18,13 @@ public:
      }
      return result;*/
         
-        //third approach
+        //third approach: easily when we are the last index of column in reshaped matrix then simply again start with initial value so:-
+        int m = mat.size(), n = mat[0].size();
+     vector<vector<int>>result(r,vector<int> (c));
+     if(m * n != r * c) return mat;
+     for(int i = 0 ; i < m*n; i++){
+            result[i/c][i%c]=mat[i/n][i%n];
+         }
+     return result;
     }
 };
