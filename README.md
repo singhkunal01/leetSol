@@ -108,3 +108,4 @@
 |2006|[ Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[C++](./solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.cpp)|0 ms|
 |2053|[ Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[C++](./solutions/2053.%20Kth%20Distinct%20String%20in%20an%20Array.cpp)|16 ms|
 |2055|[ Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)|[C++](./solutions/2055.%20Plates%20Between%20Candles.cpp)|384 ms|
+|2068|[ Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[C++](./solutions/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.cpp)|0 ms|
