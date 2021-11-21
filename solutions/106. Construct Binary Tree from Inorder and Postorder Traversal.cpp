@@ -13,11 +13,11 @@ class Solution {
     TreeNode *constructATree(vector<int> &postorder, int postStart, int postEnd, vector<int> &inorder, int inStart, int inEnd, map<int, int> &trackOfNodes)
 {
     if(postStart > postEnd or inStart > inEnd) return NULL;
-    TreeNode *root = new TreeNode(postorder[postEnd]);
-    int inRoot = trackOfNodes[root->val];
-    int numberOfNodesLeft = inRoot - inStart;
-    root->left = constructATree(postorder, postStart, postStart + numberOfNodesLeft - 1, inorder, inStart, inRoot - 1, trackOfNodes);
-    root->right = constructATree(postorder, postStart + numberOfNodesLeft, postEnd - 1, inorder, inRoot + 1, inEnd, trackOfNodes);
+    TreeNode *root = new TreeNode(postorder[postEnd]);//since we start traversing the postorder from the last of array.
+    int inRoot = trackOfNodes[root->val]; //here we get the index of the value pushed in the tree so that we should know that how many elements are left in left side of that node (value : index) and how many elemlents are left in the right side of that node
+    int numberOfNodesLeft = inRoot - inStart;//here we get the number of nodes left from the current index of that node and starting pointer
+    root->left = constructATree(postorder, postStart, postStart + numberOfNodesLeft - 1, inorder, inStart, inRoot - 1, trackOfNodes);//similarly build the left sub tree 
+    root->right = constructATree(postorder, postStart + numberOfNodesLeft, postEnd - 1, inorder, inRoot + 1, inEnd, trackOfNodes);//similarly build the right sub tree 
     return root;
 }
 public:
