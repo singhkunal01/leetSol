@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& a) {
-        //kadane's algorithm: check the explanation in the copy(striver bhaiya's notes)
+        //kadane's algorithm
         int n=a.size();
         int maxSum=INT_MIN,sum=0;
 for (int i = 0; i < n; i++)
