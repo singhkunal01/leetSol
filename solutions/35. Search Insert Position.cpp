@@ -1,22 +1,18 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        /*
-        === MENTOS ZINDAGI====
-        int idx =  lower_bound(nums.begin(),nums.end(),target)-nums.begin();
-      return idx; 
-      */
-        //===AAM ZINDAGI===
-        int l=0,h=size(nums)-1;
-        while(l<=h){
-            int mid = l +((h-l)>>1);
-            if(nums[mid]==target)
-                return mid;
-            else if(nums[mid]<target)
-                l = mid+1;
-            else 
-                h = mid -1 ;
+    int n = nums.size();
+    int i = 0, j = n - 1, mid;
+    if (target < nums[0]) return 0;
+    else if (target > nums[n - 1]) return n;
+    else {
+        while (i <= j) {
+            mid = i + ((j - i) >> 1);
+            if (nums[mid] < target) i = mid + 1;
+            else if (nums[mid] > target) j = mid - 1;
+            else return mid;
         }
-        return l;
+    }
+    return i;
     }
 };
