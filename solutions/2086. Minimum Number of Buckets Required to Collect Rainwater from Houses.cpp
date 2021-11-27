@@ -17,7 +17,8 @@ public:
                 street[i + 1] = 'B';
                 continue; /*if we come in this condition then definitely this
                 need to be true hence skip all other conditions*/
-            }
+            }
+            /*if there is a place where there is single H and an empty space it at left side then we have to place the single bucket for that single house H so this helps in such type of coniditions*/            
             if (i - 1 >= 0 and street[i - 1] == '.') {
                 numOfBuckets ++;
                 continue; /*if we come in this condition then definitely this
