@@ -111,3 +111,4 @@
 |2053|[ Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[C++](./solutions/2053.%20Kth%20Distinct%20String%20in%20an%20Array.cpp)|16 ms|
 |2055|[ Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)|[C++](./solutions/2055.%20Plates%20Between%20Candles.cpp)|384 ms|
 |2068|[ Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[C++](./solutions/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.cpp)|0 ms|
+|2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|24 ms|
