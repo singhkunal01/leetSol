@@ -111,6 +111,7 @@
 |2053|[ Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[C++](./solutions/2053.%20Kth%20Distinct%20String%20in%20an%20Array.cpp)|16 ms|
 |2055|[ Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)|[C++](./solutions/2055.%20Plates%20Between%20Candles.cpp)|384 ms|
 |2068|[ Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[C++](./solutions/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.cpp)|0 ms|
+|2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)||
 |2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|24 ms|
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[C++](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.cpp)|8 ms|
 |2091|[ Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)|[C++](./solutions/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.cpp)|148 ms|
