@@ -102,6 +102,7 @@
 |1636|[ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[C++](./solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency.cpp)|4 ms|
 |1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./solutions/1720.%20Decode%20XORed%20Array.cpp)|24 ms|
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./solutions/1768.%20Merge%20Strings%20Alternately.cpp)|0 ms|
+|1791|[ Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[C++](./solutions/1791.%20Find%20Center%20of%20Star%20Graph.cpp)|184 ms|
 |1812|[ Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[C++](./solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.cpp)|0 ms|
 |1817|[ Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[C++](./solutions/1817.%20Finding%20the%20Users%20Active%20Minutes.cpp)|232 ms|
 |1829|[ Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|[C++](./solutions/1829.%20Maximum%20XOR%20for%20Each%20Query.cpp)|164 ms|
