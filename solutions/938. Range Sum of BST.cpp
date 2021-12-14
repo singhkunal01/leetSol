@@ -10,9 +10,11 @@
  * };
  */
 class Solution {
+    private: int sum = 0;
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        stack<TreeNode*> st;
+        //iterative dfs method
+        /*stack<TreeNode*> st;
         int sum=0;
         st.push(root);
         if(root ==NULL) return 0;
@@ -22,6 +24,12 @@ public:
             if(root->right!=NULL) st.push(root->right);
             if(root->left!=NULL) st.push(root->left);
         }
-        return sum;
+        return sum;*/
+        //recursive dfs method
+    if (!root) return 0;
+    if (root->val >= low and root ->val <= high ) sum += root->val;
+    rangeSumBST(root->left, low, high);
+    rangeSumBST(root->right, low, high);
+    return sum;
     }
 };
