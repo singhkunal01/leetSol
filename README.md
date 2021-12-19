@@ -60,6 +60,7 @@
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](./solutions/383.%20Ransom%20Note.cpp)|12 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|32 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./solutions/404.%20Sum%20of%20Left%20Leaves.cpp)|4 ms|
+|414|[ Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./solutions/414.%20Third%20Maximum%20Number.cpp)|8 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./solutions/415.%20Add%20Strings.cpp)|4 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](./solutions/441.%20Arranging%20Coins.cpp)|0 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|44 ms|
