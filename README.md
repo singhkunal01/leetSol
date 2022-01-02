@@ -128,3 +128,4 @@
 |2089|[ Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[C++](./solutions/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.cpp)|8 ms|
 |2091|[ Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)|[C++](./solutions/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.cpp)|148 ms|
 |2103|[ Rings and Rods](https://leetcode.com/problems/rings-and-rods/)|[C++](./solutions/2103.%20Rings%20and%20Rods.cpp)|0 ms|
+|2124|[ Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)|[C++](./solutions/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.cpp)|5 ms|
