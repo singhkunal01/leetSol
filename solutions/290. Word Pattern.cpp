@@ -24,4 +24,6 @@ public:
 //if the pointer reached at last position it means there is no problem and hence return true;
     return i == n;
     }
+    
+    //for other solution must watch this : https://youtu.be/XO4U2KWgIgY 
 };
