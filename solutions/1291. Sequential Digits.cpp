@@ -1,11 +1,27 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        vector<int>store{12,23,34,45,56,67,78,89,123,234,345,456,567,678,789,1234,2345,3456,4567,5678,6789,12345,23456,34567,45678,56789,123456,234567,345678,456789,1234567,2345678,3456789,12345678,23456789,123456789};
-        vector<int> res;
-        for(auto val:store){
-            if(val>=low and val<=high) res.push_back(val);
-        }
-        return res;
+    vector<int> res;
+    queue<int> q;
+    for (int i = 1; i < 10; i++) {
+        q.push(i);
+    }
+​
+//know time to generate the sequence from those 9 numbers
+    while (!q.empty()) {
+        int num = q.front();
+        q.pop();
+        //check whether the number in front of queue is the range of [low,high] or not
+        if (num >= low and num <= high) res.push_back(num);
+        //check if the number is greater than the high which means we don't need that so break there.
+        if (num > high) return res;
+//if the both conditions do not satisfied then we have to generate the sequential number with the help of that current num.
+        int temp = num % 10;
+        if (temp < 9) {
+            q.push(num * 10 + temp + 1);
+        }
+        // print(mp(q, mp(num, temp)))
+    }
+    return res;
     }
 };
