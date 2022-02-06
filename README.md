@@ -143,3 +143,4 @@
 |2139|[ Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)|[C++](./solutions/2139.%20Minimum%20Moves%20to%20Reach%20Target%20Score.cpp)|4 ms|
 |2148|[ Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)|[C++](./solutions/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.cpp)|15 ms|
 |2154|[ Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)|[C++](./solutions/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two.cpp)|10 ms|
+|2161|[ Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[C++](./solutions/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.cpp)|409 ms|
