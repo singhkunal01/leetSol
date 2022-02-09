@@ -100,7 +100,7 @@
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|128 ms|
 |942|[ DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./solutions/942.%20DI%20String%20Match.cpp)|8 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](./solutions/954.%20Array%20of%20Doubled%20Pairs.cpp)|84 ms|
-|977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|24 ms|
+|977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|33 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|7 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[C++](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.cpp)|16 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|0 ms|
