@@ -1,24 +1,14 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        //solution 1 by sorting
-     /*   vector<int> res(size(nums));
-        for(int i = 0;i<size(nums);i++){
-            res[i]=nums[i]*nums[i];
-        }
-        sort(res.begin(),res.end());
+     int n = size(nums);
+        vector<int> res(n);
+        int i = 0,j = n-1;
+        for(int l = n-1;l>=0;l--){
+            if(abs(nums[i])>abs(nums[j])) 
+                res[l]=nums[i]*nums[i++];
+            else res[l]=nums[j]*nums[j--];
+        }
         return res;
-    */
-        vector<int> res(size(nums));
-int r=size(nums)-1,l=0;
-for(int i = size(nums)-1;i>=0;i--){
-   if(abs(nums[r]>abs(nums[l]))) res[i]=nums[r]*nums[r--];
-   else res[i]=nums[l]*nums[l++];
-}
-return res;
-        /* 
-        Approach is simple we have to just convert all the negative values into +ve and with the help of two pointers we have to check whichever the element is smaller l or r and insert them from back in the resultant array;
-        
-        */
     }
 };
