@@ -151,3 +151,4 @@
 |2161|[ Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[C++](./solutions/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.cpp)|409 ms|
 |2164|[ Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)|[C++](./solutions/2164.%20Sort%20Even%20and%20Odd%20Indices%20Independently.cpp)|6 ms|
 |2165|[ Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)|[C++](./solutions/2165.%20Smallest%20Value%20of%20the%20Rearranged%20Number.cpp)|3 ms|
+|2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[C++](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.cpp)|313 ms|
