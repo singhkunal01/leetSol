@@ -116,6 +116,7 @@
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.cpp)|327 ms|
 |1200|[ Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./solutions/1200.%20Minimum%20Absolute%20Difference.cpp)|64 ms|
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[C++](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)|8 ms|
+|1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[C++](./solutions/1288.%20Remove%20Covered%20Intervals.cpp)|20 ms|
 |1291|[ Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[C++](./solutions/1291.%20Sequential%20Digits.cpp)|4 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|79 ms|
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|44 ms|
