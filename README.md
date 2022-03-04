@@ -98,6 +98,7 @@
 |724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](./solutions/724.%20Find%20Pivot%20Index.cpp)|20 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|20 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|4 ms|
+|799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[C++](./solutions/799.%20Champagne%20Tower.cpp)|5 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[C++](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)|4 ms|
 |863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)|8 ms|
 |872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[C++](./solutions/872.%20Leaf-Similar%20Trees.cpp)|4 ms|
