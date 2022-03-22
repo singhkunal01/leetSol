@@ -143,6 +143,7 @@
 |1817|[ Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[C++](./solutions/1817.%20Finding%20the%20Users%20Active%20Minutes.cpp)|232 ms|
 |1829|[ Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|[C++](./solutions/1829.%20Maximum%20XOR%20for%20Each%20Query.cpp)|164 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[C++](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.cpp)|4 ms|
+|1844|[ Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[C++](./solutions/1844.%20Replace%20All%20Digits%20with%20Characters.cpp)|0 ms|
 |1935|[ Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[C++](./solutions/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.cpp)|4 ms|
 |1979|[ Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)|[C++](./solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.cpp)|16 ms|
 |2006|[ Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[C++](./solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.cpp)|0 ms|
