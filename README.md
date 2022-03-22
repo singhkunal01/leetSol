@@ -168,3 +168,4 @@
 |2164|[ Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)|[C++](./solutions/2164.%20Sort%20Even%20and%20Odd%20Indices%20Independently.cpp)|6 ms|
 |2165|[ Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)|[C++](./solutions/2165.%20Smallest%20Value%20of%20the%20Rearranged%20Number.cpp)|3 ms|
 |2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[C++](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.cpp)|313 ms|
+|2207|[ Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|[C++](./solutions/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String.cpp)|73 ms|
