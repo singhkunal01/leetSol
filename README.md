@@ -97,6 +97,7 @@
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|40 ms|
 |724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](./solutions/724.%20Find%20Pivot%20Index.cpp)|20 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|20 ms|
+|763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./solutions/763.%20Partition%20Labels.cpp)|5 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|4 ms|
 |799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[C++](./solutions/799.%20Champagne%20Tower.cpp)|5 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[C++](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)|4 ms|
