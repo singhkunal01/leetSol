@@ -110,6 +110,7 @@
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)|8 ms|
 |872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[C++](./solutions/872.%20Leaf-Similar%20Trees.cpp)|4 ms|
+|881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[C++](./solutions/881.%20Boats%20to%20Save%20People.cpp)|87 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|379 ms|
 |897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](./solutions/897.%20Increasing%20Order%20Search%20Tree.cpp)|4 ms|
 |914|[ X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[C++](./solutions/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.cpp)|16 ms|
