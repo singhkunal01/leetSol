@@ -141,6 +141,7 @@
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|44 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|12 ms|
 |1331|[ Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[C++](./solutions/1331.%20Rank%20Transform%20of%20an%20Array.cpp)|103 ms|
+|1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|15 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[C++](./solutions/1446.%20Consecutive%20Characters.cpp)|0 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|4 ms|
 |1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[C++](./solutions/1609.%20Even%20Odd%20Tree.cpp)|240 ms|
