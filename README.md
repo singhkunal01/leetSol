@@ -11,6 +11,7 @@
 |23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)|20 ms|
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|8 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|4 ms|
+|37|[ Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./solutions/37.%20Sudoku%20Solver.cpp)|51 ms|
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./solutions/39.%20Combination%20Sum.cpp)|3 ms|
 |40|[ Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./solutions/40.%20Combination%20Sum%20II.cpp)|3 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|140 ms|
