@@ -1,18 +1,20 @@
-class Solution {
+class Solution
+{
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
+    vector<int> searchRange(vector<int> &nums, int target)
+    {
         vector<int> res(2,-1);
         if (size(nums) <1)
             return res;
         int low = 0, high = size(nums) - 1;
         while (low < high)
-        {
+        {
             int mid = low + ((high - low) >> 1);
             if (nums[mid] < target)
                 low = mid + 1;
             else
                 high = mid;
-        }
+        }
         if(nums[low]!=target)
           return res;
         else res[0]=low;
