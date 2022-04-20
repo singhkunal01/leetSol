@@ -10,27 +10,30 @@
  * };
  */
 class BSTIterator {
- private:   
-    vector<int> res;
-    int i =0;
 private:
-    void inorder(TreeNode *root){
-        if(!root) return;
-        inorder(root->left);
-        res.push_back(root->val);
-        inorder(root->right);
+    stack<TreeNode*> st;
+private:
+    void pushAll(TreeNode* root){
+        while(root){
+            st.push(root);
+            root = root->left;
+        }
     }
 public:
     BSTIterator(TreeNode* root) {
-        inorder(root);
+        pushAll(root);
     }
     
     int next() {
-        return res[i++];
+        //as we push the left values first then always the smallest value 
+        //among all the values present in stack
+        TreeNode *topVal = st.top(); st.pop();
+        if(topVal->right)pushAll(topVal->right);
+        return topVal->val;
     }
     
     bool hasNext() {
-        return i<res.size();
+        return !st.empty();
     }
 };
 ​
