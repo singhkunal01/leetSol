@@ -108,6 +108,7 @@
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)||
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)||
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|40 ms|
+|705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[C++](./solutions/705.%20Design%20HashSet.cpp)|112 ms|
 |724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](./solutions/724.%20Find%20Pivot%20Index.cpp)|20 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|16 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./solutions/763.%20Partition%20Labels.cpp)|5 ms|
