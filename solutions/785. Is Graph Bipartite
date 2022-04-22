@@ -1,21 +1,16 @@
 class Solution {
-bool bipartiteBFS(int node,vector<vector<int>>& graph,vector<int> &color){
+bool bipartiteDFS(int node,vector<vector<int>>& graph,vector<int> &color){
     int sz = graph.size();
-    queue<int> ds({node});
-    color[node] = 1;
-    while (!ds.empty()) {
-        int currNode = ds.front(); ds.pop();
-        for (int i = 0;i<graph[currNode].size();i++) {
-            if (color[graph[currNode][i]] == -1) {
-                color[graph[currNode][i]] = 1 - color[currNode];
-                ds.push(graph[currNode][i]);
+        if(color[node]==-1)color[node] = 1;//mark as colored
+        for (int i = 0;i<graph[node].size();i++) {
+            if (color[graph[node][i]] == -1) {
+                color[graph[node][i]] = 1 - color[node];
+                if(!(bipartiteDFS(graph[node][i], graph, color))) return false;
             }
             //else if check whether the adjacents of current node having same color or not if not then return false'
-            else if (color[graph[currNode][i]] == color[currNode])
+            else if (color[graph[node][i]] == color[node])
                 return false;
         }
-    }
-​
     return true;
 }
 public:
@@ -26,7 +21,7 @@ public:
     for (int i = 0; i < n; i++) {
         if (color[i] == -1) {
 //check for the bipartite
-            if (!bipartiteBFS(i, graph, color)) return false;
+            if (!bipartiteDFS(i, graph, color)) return false;
         }
     }
     return true;
