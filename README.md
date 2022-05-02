@@ -196,3 +196,4 @@
 |2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[C++](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.cpp)|313 ms|
 |2206|[ Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[C++](./solutions/2206.%20Divide%20Array%20Into%20Equal%20Pairs.cpp)|47 ms|
 |2207|[ Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|[C++](./solutions/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String.cpp)|73 ms|
+|2255|[ Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[C++](./solutions/2255.%20Count%20Prefixes%20of%20a%20Given%20String.cpp)|10 ms|
