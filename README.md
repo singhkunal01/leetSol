@@ -62,6 +62,7 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|0 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|160 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|41 ms|
+|225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./solutions/225.%20Implement%20Stack%20using%20Queues.cpp)|6 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)|4 ms|
 |228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](./solutions/228.%20Summary%20Ranges.cpp)|N/A|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)|12 ms|
