@@ -1,48 +1,24 @@
 class MyStack {//first approach using 2 queues
-        queue<int> p,q;
+    queue<int> p;
     public:
-    
     MyStack() {}
     
     void push(int x) {
         p.push(x);
+        for(int i = 0;i<p.size()-1;i++){
+            p.push(p.front());
+            p.pop();
+        }
     }
     
     int pop() {
-        //first check the size of queue then except last one pop all values
-        int n = p.size();
-        while(n > 1){
-            int top = p.front();
-            p.pop();
-            q.push(top);
-            n--;
-        }
-        int currTop = p.front();
+        int top = p.front(); 
         p.pop();
-        while(!q.empty()){
-            p.push(q.front());
-            q.pop();
-        }
-        return currTop;
+        return top;
     }
     
     int top() {
-        //first check the size of queue then except last one pop all values
-        int n = p.size();
-        while(n > 1){
-            int top = p.front();
-            p.pop();
-            q.push(top);
-            n--;
-        }
-        int currTop = p.front();
-        p.pop();
-        while(!q.empty()){
-            p.push(q.front());
-            q.pop();
-        }
-        p.push(currTop);
-        return currTop; 
+         return p.front();
     }
     
     bool empty() {
@@ -50,11 +26,13 @@ class MyStack {//first approach using 2 queues
     }
 };
 ​
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack* obj = new MyStack();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->top();
- * bool param_4 = obj->empty();
- */
+/* What is the actual approach  ?
+Basically except the top value in the queue pop all values in one go and then push back
+again into the same queue 
+​
+Ex - p = {1,2,3}
+query is - push(4) then,
+p = 1,2,3,4 but after that
+p = {4,1,2,3} which means the top value becomes the front one now which means now it works like a STACK
+​
+*/
