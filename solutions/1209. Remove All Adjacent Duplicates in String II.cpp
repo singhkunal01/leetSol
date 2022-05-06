@@ -15,9 +15,9 @@ public:
     while (!st.empty()) {
         auto str = st.top();
         st.pop();
-        while (str.second--)res.push_back(str.first);
+        while (str.second--)res+=str.first;
     }
-        reverse(res.begin(),res.end());
+     reverse(res.begin(),res.end());
     return res;
     }
 };
