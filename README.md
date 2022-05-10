@@ -151,6 +151,7 @@
 |1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|0 ms|
 |1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[C++](./solutions/1122.%20Relative%20Sort%20Array.cpp)|4 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./solutions/1137.%20N-th%20Tribonacci%20Number.cpp)|0 ms|
+|1138|[ Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[C++](./solutions/1138.%20Alphabet%20Board%20Path.cpp)|7 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[C++](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.cpp)|327 ms|
 |1200|[ Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./solutions/1200.%20Minimum%20Absolute%20Difference.cpp)|64 ms|
 |1202|[ Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[C++](./solutions/1202.%20Smallest%20String%20With%20Swaps.cpp)|305 ms|
