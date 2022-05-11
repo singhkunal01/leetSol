@@ -1,3 +1,5 @@
+<link rel="favicon" href="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png">
+
 # LeetCode Problems
 
 | # | Title | Solution | Runtime |
