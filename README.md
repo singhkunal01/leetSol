@@ -1,4 +1,3 @@
-<link rel="favicon" href="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png">
 
 # LeetCode Problems
 
@@ -211,3 +210,6 @@
 |2207|[ Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|[C++](./solutions/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String.cpp)|73 ms|
 |2255|[ Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[C++](./solutions/2255.%20Count%20Prefixes%20of%20a%20Given%20String.cpp)|10 ms|
 |2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|176 ms|
+
+# Solutions of Above Problems which I coded -
+[See Solutions < / > with ❤️ by Kunal Singh](https://github.com/singhkunal01/LeetCode-Problems-Solutions/tree/main/solutions)
