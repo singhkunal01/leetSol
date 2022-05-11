@@ -211,5 +211,6 @@
 |2255|[ Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[C++](./solutions/2255.%20Count%20Prefixes%20of%20a%20Given%20String.cpp)|10 ms|
 |2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|176 ms|
 
-# Solutions of Above Problems which I coded -
+
+### Solutions of Above Problems which I coded -
 [See Solutions < / > with ❤️ by Kunal Singh](https://github.com/singhkunal01/LeetCode-Problems-Solutions/tree/main/solutions)
