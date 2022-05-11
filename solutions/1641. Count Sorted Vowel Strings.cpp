@@ -1,17 +1,15 @@
-class Solution {
-    void generateStrings(int n,int till,int &ct){
-        if(n==0){
-            ct++;
-            return;
-        }
-        for(int i = 0;i<5;i++){
-            if(i>=till) generateStrings(n-1,i,ct);
-        }
+class Solution { 
+    int doSum(vector<int> &dp){
+        return accumulate(dp.begin(),dp.end(),0);
     }
 public:
     int countVowelStrings(int n) {
-        int ct = 0;
-        generateStrings(n,0,ct);
-        return ct;
+         vector<int> dp(5,1);
+        while(--n){
+          for(int i = 3;i>=0;i--){
+               dp[i]+=dp[i+1];
+              }
+         } 
+        return doSum(dp);
     }
 };
