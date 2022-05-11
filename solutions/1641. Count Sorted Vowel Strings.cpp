@@ -6,7 +6,7 @@ class Solution {
         }
         for(int i = 0;i<5;i++){
             if(i>=till) generateStrings(n-1,i,ct);
-        }
+        }
     }
 public:
     int countVowelStrings(int n) {
