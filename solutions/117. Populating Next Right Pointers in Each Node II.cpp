@@ -17,22 +17,28 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-    //edge case
-    if (!root) return NULL;
-    queue <Node*> ds({root});
-    while (!ds.empty()) {
-        int curr = ds.size();
-        Node *dummy = new Node(0);
-        while (curr--) {
-            Node *top = ds.front();
-            ds.pop();
-            dummy->next = top;
-            dummy = dummy->next;
-            //if left and right does exists then
-            if (top->left)ds.push(top->left);
-            if (top->right)ds.push(top->right);
+        //edge case
+        if(!root) return NULL;
+        //copy of the root
+        Node *copy = root;
+        while(copy){
+            Node *dummy = new Node(-1);
+            Node *temp = dummy;
+            while(copy){
+                //check whether the current node has left 
+                if(copy->left){
+                    temp->next = copy->left;
+                    temp = temp->next;
+                }
+                //check whether the current Node has right
+                if(copy->right){
+                    temp->next = copy->right;
+                    temp = temp->next;
+                }
+            copy = copy->next;
+            }
+            copy= dummy->next;
         }
-    }
-    return root;
+return root;
     }
 };
