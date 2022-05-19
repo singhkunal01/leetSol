@@ -182,6 +182,7 @@
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./solutions/1768.%20Merge%20Strings%20Alternately.cpp)|0 ms|
 |1790|[ Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[C++](./solutions/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.cpp)|0 ms|
 |1791|[ Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[C++](./solutions/1791.%20Find%20Center%20of%20Star%20Graph.cpp)|184 ms|
+|1798|[ Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)|[C++](./solutions/1798.%20Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make.cpp)|161 ms|
 |1812|[ Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[C++](./solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.cpp)|0 ms|
 |1817|[ Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[C++](./solutions/1817.%20Finding%20the%20Users%20Active%20Minutes.cpp)|232 ms|
 |1829|[ Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|[C++](./solutions/1829.%20Maximum%20XOR%20for%20Each%20Query.cpp)|164 ms|
