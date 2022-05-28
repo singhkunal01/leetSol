@@ -225,3 +225,4 @@
 
 ### Solutions of Above Problems which I coded -
 [See Solutions < / > with ❤️ by Kunal Singh](https://github.com/singhkunal01/LeetCode-Problems-Solutions/tree/main/solutions)
+|2284|[ Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|[C++](./solutions/2284.%20Sender%20With%20Largest%20Word%20Count.cpp)|730 ms|
