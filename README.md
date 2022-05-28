@@ -226,3 +226,4 @@
 ### Solutions of Above Problems which I coded -
 [See Solutions < / > with ❤️ by Kunal Singh](https://github.com/singhkunal01/LeetCode-Problems-Solutions/tree/main/solutions)
 |2284|[ Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|[C++](./solutions/2284.%20Sender%20With%20Largest%20Word%20Count.cpp)|730 ms|
+|2285|[ Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[C++](./solutions/2285.%20Maximum%20Total%20Importance%20of%20Roads.cpp)|1338 ms|
