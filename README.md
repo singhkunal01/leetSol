@@ -174,6 +174,7 @@
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|44 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|12 ms|
 |1331|[ Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[C++](./solutions/1331.%20Rank%20Transform%20of%20an%20Array.cpp)|103 ms|
+|1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./solutions/1332.%20Remove%20Palindromic%20Subsequences.cpp)|14 ms|
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|15 ms|
 |1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[C++](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)|804 ms|
 |1396|[ Design Underground System](https://leetcode.com/problems/design-underground-system/)|[C++](./solutions/1396.%20Design%20Underground%20System.cpp)|347 ms|
