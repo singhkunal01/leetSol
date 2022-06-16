@@ -5,6 +5,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./solutions/1.%20Two%20Sum.cpp)|4 ms|
 |3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)|14 ms|
+|5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./solutions/5.%20Longest%20Palindromic%20Substring.cpp)|262 ms|
 |11|[ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./solutions/11.%20Container%20With%20Most%20Water.cpp)|200 ms|
 |12|[ Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./solutions/12.%20Integer%20to%20Roman.cpp)|8 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./solutions/14.%20Longest%20Common%20Prefix.cpp)|0 ms|
