@@ -182,6 +182,7 @@
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|15 ms|
 |1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[C++](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)|804 ms|
 |1396|[ Design Underground System](https://leetcode.com/problems/design-underground-system/)|[C++](./solutions/1396.%20Design%20Underground%20System.cpp)|347 ms|
+|1423|[ Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[C++](./solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)|63 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[C++](./solutions/1446.%20Consecutive%20Characters.cpp)|0 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|4 ms|
 |1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[C++](./solutions/1609.%20Even%20Odd%20Tree.cpp)|240 ms|
