@@ -194,6 +194,7 @@
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)|3 ms|
 |1663|[ Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[C++](./solutions/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp)|61 ms|
 |1679|[ Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[C++](./solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs.cpp)|241 ms|
+|1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|52 ms|
 |1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./solutions/1720.%20Decode%20XORed%20Array.cpp)|24 ms|
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./solutions/1768.%20Merge%20Strings%20Alternately.cpp)|0 ms|
 |1790|[ Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[C++](./solutions/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.cpp)|0 ms|
