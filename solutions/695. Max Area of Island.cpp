@@ -1,24 +1,36 @@
+//dfs approach is in the notes check it for better understanding
+​
 class Solution {
-    void findIslandsDfs(vector<vector<int>>& grid, int i, int j, vector<vector<int>>&dir, int n, int m,int &sum) {
-        if (i < 0 or j < 0 or i>n - 1 or j > m - 1 or grid[i][j] != 1) return;//these are the boundaries
-        sum+=1;
-        grid[i][j] = 2;//mark as visited
-        for (auto allDir : dir) {
-            int newI = i + allDir[0];//exploring each direcion in x
-            int newJ = j + allDir[1];//exploring each direction in y
-            findIslandsDfs(grid, newI, newJ, dir, n, m,sum);
-        }
+    int findIslandsDfs(vector<vector<int>>& grid, int r, int c) {
+        vector<vector<int>> dir{{1, 0}, {0, 1}, { -1, 0}, {0, -1}};
+        queue<pair<int,int>> ds;
+        ds.push({r,c});
+       int islandsCount = 1, n = grid.size(), m = grid[0].size();;
+        //mark the current cell as visited by putting water on that cell
+        grid[r][c]=0;
+        while(!ds.empty()){
+            int first = ds.front().first,second = ds.front().second;
+            ds.pop();
+            //iterate over all 4 directions
+            for(auto allDir:dir){
+            int newI = first + allDir[0];//exploring each direcion in x
+            int newJ = second + allDir[1];//exploring each direction in y
+            if (newI >= 0 and newJ >= 0 and newI<=n - 1 and newJ <= m - 1 and grid[newI][newJ] ) {//these are the boundaries
+                grid[newI][newJ]=0;
+                islandsCount+=1;
+                ds.push({newI,newJ});
+            }
+            }
+        }
+    return islandsCount;
     }
 public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        vector<vector<int>> dir{{1, 0}, {0, 1}, { -1, 0}, {0, -1}};
         int islandsCount = 0, n = grid.size(), m = grid[0].size();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                int sum = 0;
-                if (grid[i][j] == 1) {
-                findIslandsDfs(grid, i, j, dir, n, m,sum);
-                islandsCount = max(islandsCount,sum);
+                if (grid[i][j]) {
+                islandsCount = max(islandsCount, findIslandsDfs(grid, i, j));
                 }
             }
         }
