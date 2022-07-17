@@ -253,3 +253,4 @@
 |2285|[ Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[C++](./solutions/2285.%20Maximum%20Total%20Importance%20of%20Roads.cpp)|1338 ms|
 |2299|[ Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)|[C++](./solutions/2299.%20Strong%20Password%20Checker%20II.cpp)|0 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[C++](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp)|435 ms|
+|2342|[ Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[C++](./solutions/2342.%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.cpp)|1136 ms|
