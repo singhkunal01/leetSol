@@ -254,3 +254,4 @@
 |2299|[ Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)|[C++](./solutions/2299.%20Strong%20Password%20Checker%20II.cpp)|0 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[C++](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp)|435 ms|
 |2342|[ Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[C++](./solutions/2342.%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.cpp)|1136 ms|
+|2344|[ Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)|[C++](./solutions/2344.%20Minimum%20Deletions%20to%20Make%20Array%20Divisible.cpp)|212 ms|
