@@ -175,6 +175,7 @@
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[C++](./solutions/1029.%20Two%20City%20Scheduling.cpp)|6 ms|
 |1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|0 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|158 ms|
+|1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[C++](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp)|1230 ms|
 |1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[C++](./solutions/1122.%20Relative%20Sort%20Array.cpp)|4 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./solutions/1137.%20N-th%20Tribonacci%20Number.cpp)|0 ms|
 |1138|[ Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[C++](./solutions/1138.%20Alphabet%20Board%20Path.cpp)|7 ms|
