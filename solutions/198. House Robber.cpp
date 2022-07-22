@@ -8,18 +8,35 @@ class Solution {
 //     int notPick = 0+findMaxAmongAll(i-1,a,dp);
 //     return dp[i]=max(pick,notPick);
 // }
+    
+    
+    //tabulation approach
+    
+    // int rob(vector<int>& nums) {
+    // int n = nums.size();
+    // vector<int> dp(n, -1);
+    // //base case
+    // dp[0] = nums[0];
+    // for (int i = 1; i < n; i++) {
+    //  int pick =  pick = nums[i];
+    //  if (i > 1)pick += dp[i - 2];
+    //  int notPick = dp[i - 1];
+    //  dp[i] = max(pick, notPick);
+    // }
+    // return dp[n - 1];
+    // }
 public:
     int rob(vector<int>& nums) {
     int n = nums.size();
-    vector<int> dp(n, -1);
-    //base case
-    dp[0] = nums[0];
-    for (int i = 1; i < n; i++) {
-        int pick =  pick = nums[i];
-        if (i > 1)pick += dp[i - 2];
-        int notPick = dp[i - 1];
-        dp[i] = max(pick, notPick);
+    int prev = nums[0], prev2 = 0, currI  = 0;
+    for (int i = 1 ; i < n; i++) {
+        int pick = nums[i];
+        if (i > 1) pick += prev2;
+        int notPick = prev;
+        currI = max(pick, notPick);
+        prev2 = prev;
+        prev = currI;
     }
-    return dp[n - 1];
+    return prev;
     }
 };
